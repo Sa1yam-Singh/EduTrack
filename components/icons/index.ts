@@ -1,0 +1,8 @@
+export { CheckCircleIcon } from "./check-circle-icon.tsx"
+export { ShieldIcon } from "./shield-icon.tsx"
+export { UsersIcon } from "./users-icon.tsx"
+export { TrendingUpIcon } from "./trending-up-icon.tsx"
+export { EyeIcon } from "./eye-icon.tsx"
+export { AwardIcon } from "./award-icon.tsx"
+export { ArrowRightIcon } from "./arrow-right-icon.tsx"
+export { PlayIcon } from "./play-icon.tsx"
